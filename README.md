@@ -5,3 +5,7 @@ Time Management: Users can gauge how much time has elapsed in a day, month, or y
 Productivity Tracking: It allows users to monitor their productivity by seeing how much of the day, month, or year has already passed and how much remains.
 
 Personal Reflection: Some users may find it introspective to reflect on how they've spent their time within a given timeframe.
+
+
+https://github.com/akshbansal61203/Time-Tracker/assets/123982568/124ca9a4-cf22-4be6-b446-0bddb741b495
+
